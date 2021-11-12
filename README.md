@@ -14,9 +14,9 @@ Programming Language : Python
 
   Interest Rates
 
-  balance < $2,000  Interest 0.01%
-  balance >= $2,000 & < $12,000 Interest 0.05%
-  balance >= $12,000 Interest 0.1%
+  - balance < $2,000  Interest 0.01%
+  - balance >= $2,000 & < $12,000 Interest 0.05%
+  - balance >= $12,000 Interest 0.1%
 
 
 Unit Test Framework - unittest
