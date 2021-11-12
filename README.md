@@ -6,7 +6,7 @@ Programming Language : Python
 
 - Inital Deposit > 100
 
--Checking Account:
+- Checking Account:
 
   Interest - 0.01%
 
